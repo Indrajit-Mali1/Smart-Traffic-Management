@@ -50,7 +50,7 @@ The **Smart Traffic Management System** is a Python-based application that uses 
 ## Usage
 1. **Run the Script**:
    ```bash
-   python traffic_management.py
+   python traffic_management.ipynb
 
 2. **Controls**:
    - Press `q` to exit the application
@@ -62,7 +62,7 @@ The **Smart Traffic Management System** is a Python-based application that uses 
 ## File Structure
    
 smart-traffic-management/   
-  ├── Untitled1.py          # Main script with embedded Tracker class   
+  ├── traffic_management.py # Main script with embedded Tracker class   
   ├── yolo12n.pt            # YOLOv12n model file (not included)   
   ├── traffic1.mp4          # North direction video (not included)   
   ├── traffic2.mp4          # East direction video (not included)   
